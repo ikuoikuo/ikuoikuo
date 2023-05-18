@@ -1,6 +1,5 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Yusuke Nakagawa.</h1>
-- 📫 How to reach me **tsukutakun@icloud.com**
+<h1 align="center">Hi there, I'm Ikuya Fujikawa.</h1>
+- 📫 How to reach me <tsukutakun@icloud.com>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
