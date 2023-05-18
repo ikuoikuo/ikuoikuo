@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ikuya Fujikawa.</h1>
-- 📫 How to reach me [i.fujikawa0701@gmail.com](i.fujikawa0701@gmail.com)
+- 📫 How to reach me <tsukutakun@icloud.com>
 
 
 <h3 align="left">Languages and Tools:</h3>
