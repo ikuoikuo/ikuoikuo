@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋 I'm Ikuya Fujikawa.</h1>
 
-<p>- 📫 How to reach me <tsukutakun@icloud.com></p>
+<p>- 📫 How to reach me : tsukutakun@icloud.com <tsukutakun@icloud.com></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
